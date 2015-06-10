@@ -1,5 +1,5 @@
 # awesome
-List of awesome tools / books / articles that I find useful for development.
+List of awesome tools / books / articles that I find useful for (self) development.
 
 ## Tools
 
@@ -29,6 +29,10 @@ CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON sup
 http://blog.jetbrains.com/phpstorm/category/php-annotated-monthly
 
 ## Misc
+
+#### Anki (http://ankisrs.net)
+
+Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
 
 #### HARD with STYLE (https://soundcloud.com/hardwithstyle)
 
