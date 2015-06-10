@@ -28,6 +28,10 @@ CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON sup
 #### PHP Annotated Monthly by JetBrains
 http://blog.jetbrains.com/phpstorm/category/php-annotated-monthly
 
+#### DesignPatternsPHP (https://github.com/domnikl/DesignPatternsPHP)
+
+This is a collection of known design patterns and some sample code how to implement them in PHP. Every pattern has a small list of examples (most of them from Zend Framework, Symfony2 or Doctrine2).
+
 ## Misc
 
 #### Anki (http://ankisrs.net)
