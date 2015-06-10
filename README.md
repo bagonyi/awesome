@@ -3,6 +3,12 @@ List of awesome tools / books / articles that I find useful for (self) developme
 
 ## Tools
 
+#### zsh (http://www.zsh.org) + Antigen (https://github.com/zsh-users/antigen)
+
+The Z shell (zsh) is a Unix shell that can be used as an interactive login shell and as a powerful command interpreter for shell scripting. Zsh can be thought of as an extended Bourne shell with a large number of improvements, including some features of bash, ksh, and tcsh.
+
+Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup. Antigen is to zsh, what Vundle is to vim.
+
 #### LNAV - The Logfile Navigator (https://github.com/tstack/lnav)
 
 The log file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels. Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file. It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
