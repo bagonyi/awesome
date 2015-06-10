@@ -47,6 +47,40 @@ CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON sup
 
 PhpStorm's smart code editor provides excellent support for PHP (including the latest language versions and frameworks), HTML, JavaScript, CSS, Sass, Less, CoffeeScript, and many other languages. Enjoy coding with intelligent context-aware code completion, error detection, and on-the-fly code inspections & fixes.
 
+#### Chrome Extensions
+
+##### Aliaser (https://chrome.google.com/webstore/detail/aliaser/oflebjnamhkcfcmlgncneemhbijddaae)
+
+Aliaser is a Chrome extension that provides multiple-parameter URL aliasing.
+
+##### Anki Adder (https://chrome.google.com/webstore/detail/anki-adder/nfpaeklmpflephgpofglphmgbfkkdmmo)
+
+Add cards to Anki directly from Chrome. Perfect for when you quickly want to add something without having to start the desktop version.
+
+##### Cache Killer (https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap)
+
+Automatically clear your browser cache before loading a page. Can be enabled/disabled with a single mouse click.
+
+##### CSS Reloader (https://chrome.google.com/webstore/detail/css-reloader/dnfpcpfijpdhabaoieccoclghgplmpbd)
+
+CSS Reloader is a browser extension, that allows you to reload CSS without reloading the page itself.
+
+##### EditThisCookie (https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+
+EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
+
+##### Google Quick Scroll (https://chrome.google.com/webstore/detail/google-quick-scroll/okanipcmceoeemlbjnmnbdibhgpbllgc)
+
+Quick Scroll lets you jump directly to the relevant bits of a Google search result.
+
+##### Toggle Switch Recent Last Tabs (https://chrome.google.com/webstore/detail/toggle-switch-recent-last/odhjcgnlbagjllfbilicalpigimhdcll)
+
+Toggle between your current and last used (focused) tab with a keyboard shortcut (ALT+Q by default) or mouse click on the icon.
+
+##### Vimimum (https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
+
+The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.
+
 ## Articles
 
 #### PHP Annotated Monthly by JetBrains
