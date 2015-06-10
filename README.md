@@ -3,9 +3,11 @@ List of awesome tools / books / articles that I find useful for (self) developme
 
 ## Tools
 
-#### zsh (http://www.zsh.org) + Antigen (https://github.com/zsh-users/antigen)
+#### zsh (http://www.zsh.org)
 
 The Z shell (zsh) is a Unix shell that can be used as an interactive login shell and as a powerful command interpreter for shell scripting. Zsh can be thought of as an extended Bourne shell with a large number of improvements, including some features of bash, ksh, and tcsh.
+
+##### Antigen (https://github.com/zsh-users/antigen)
 
 Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup. Antigen is to zsh, what Vundle is to vim.
 
