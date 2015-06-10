@@ -23,6 +23,10 @@ MailCatcher runs a super simple SMTP server which catches any message sent to it
 
 CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
+#### PhpStorm (https://www.jetbrains.com/phpstorm)
+
+PhpStorm's smart code editor provides excellent support for PHP (including the latest language versions and frameworks), HTML, JavaScript, CSS, Sass, Less, CoffeeScript, and many other languages. Enjoy coding with intelligent context-aware code completion, error detection, and on-the-fly code inspections & fixes.
+
 ## Articles
 
 #### PHP Annotated Monthly by JetBrains
