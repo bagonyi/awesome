@@ -27,3 +27,9 @@ CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON sup
 
 #### PHP Annotated Monthly by JetBrains
 http://blog.jetbrains.com/phpstorm/category/php-annotated-monthly
+
+## Misc
+
+#### HARD with STYLE (https://soundcloud.com/hardwithstyle)
+
+A home to lovers of the harder styles in dance music, and a platform for new talents to shine. Based on the ever so popular monthly Podcast, HARD with STYLE has become more than a record label – a movement in its own right.
