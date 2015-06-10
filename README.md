@@ -7,6 +7,10 @@ List of awesome tools / books / articles that I find useful for development.
 
 The log file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels. Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file. It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
 
+#### sshrc (https://github.com/Russell91/sshrc)
+
+Bring your .bashrc, .vimrc, etc. with you when you ssh. sshrc works just like ssh, but it also sources the ~/.sshrc on your local computer after logging in remotely.
+
 #### Unison (http://www.cis.upenn.edu/~bcpierce/unison)
 
 Unison is a file-synchronization tool for OSX, Unix, and Windows. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other.
