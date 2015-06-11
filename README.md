@@ -157,6 +157,8 @@ This is a collection of known design patterns and some sample code how to implem
 
 #### [Patterns of Enterprise Application Architecture (Martin Fowler)](http://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420)
 
+#### [Mastering Regular Expressions (Jeffrey Friedl)](http://regex.info/book.html)
+
 ## Misc
 
 #### [Anki](http://ankisrs.net)
