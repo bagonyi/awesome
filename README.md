@@ -17,6 +17,30 @@ tmux is a terminal multiplexer.
 
 What is a terminal multiplexer? It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
 
+#### [vim](http://www.vim.org)
+
+Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
+
+##### [Vundle](https://github.com/gmarik/Vundle.vim)
+
+Vundle, the plug-in manager for Vim.
+
+##### [vim-airline](https://github.com/bling/vim-airline)
+
+Lean & mean status/tabline for vim that's light as air.
+
+##### [fugitive.vim](https://github.com/tpope/vim-fugitive)
+
+fugitive.vim: a Git wrapper so awesome, it should be illegal
+
+##### [ctrlp.vim](http://kien.github.io/ctrlp.vim)
+
+Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
+
+##### [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+
+A Vim plugin which shows a git diff in the gutter (sign column) and stages/reverts hunks.
+
 #### [Vagrant](https://www.vagrantup.com)
 
 Create and configure lightweight, reproducible, and portable development environments.
