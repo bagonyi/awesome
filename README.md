@@ -11,6 +11,12 @@ The Z shell (zsh) is a Unix shell that can be used as an interactive login shell
 
 Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup. Antigen is to zsh, what Vundle is to vim.
 
+#### [tmux](http://tmux.github.io)
+
+tmux is a terminal multiplexer.
+
+What is a terminal multiplexer? It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
+
 #### [Vagrant](https://www.vagrantup.com)
 
 Create and configure lightweight, reproducible, and portable development environments.
