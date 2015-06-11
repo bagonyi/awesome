@@ -102,6 +102,10 @@ PhpStorm's smart code editor provides excellent support for PHP (including the l
 
 gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.
 
+#### [Midnight Commander](https://www.midnight-commander.org)
+
+GNU Midnight Commander is a visual file manager. It's a feature rich full-screen text mode application that allows you to copy, move and delete files and whole directory trees, search for files and run commands in the subshell. Internal viewer and editor are included.
+
 #### [muCommander](http://www.mucommander.com)
 
 muCommander is a lightweight, cross-platform file manager with a dual-pane interface. It runs on any operating system with Java support (Mac OS X, Windows, Linux, *BSD, Solaris...).
