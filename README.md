@@ -66,9 +66,17 @@ The log file navigator, lnav, is an enhanced log file viewer that takes advantag
 
 Bring your .bashrc, .vimrc, etc. with you when you ssh. sshrc works just like ssh, but it also sources the ~/.sshrc on your local computer after logging in remotely.
 
-#### [Unison](http://www.cis.upenn.edu/~bcpierce/unison)
+#### [Unison](http://www.cis.upenn.edu/~bcpierce/unison) with [onchange.sh](https://gist.github.com/senko/1154509) for keeping local and a remote in sync
 
 Unison is a file-synchronization tool for OSX, Unix, and Windows. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other.
+
+Note: Unison needs to be installed both locally and on the remote machine (must be same version!).
+
+Usage (assuming `onchange` is on your `$PATH` and ideally using key authentication for SSH):
+```bash
+cd /path/to/code/locally
+onchange unison . ssh://root@virtualmachine//path/to/code/on/remote -batch -contactquietly
+```
 
 #### [MailCatcher](http://mailcatcher.me)
 
