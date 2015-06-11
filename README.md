@@ -149,6 +149,14 @@ What all the fashionable ElePHPants are reading.
 
 This is a collection of known design patterns and some sample code how to implement them in PHP. Every pattern has a small list of examples (most of them from Zend Framework, Symfony2 or Doctrine2).
 
+## Books
+
+#### [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)](http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
+#### [The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)](http://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+
+#### [Patterns of Enterprise Application Architecture (Martin Fowler)](http://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420)
+
 ## Misc
 
 #### [Anki](http://ankisrs.net)
