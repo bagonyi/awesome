@@ -85,6 +85,10 @@ gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel c
 
 muCommander is a lightweight, cross-platform file manager with a dual-pane interface. It runs on any operating system with Java support (Mac OS X, Windows, Linux, *BSD, Solaris...).
 
+#### [easystroke](http://sourceforge.net/projects/easystroke)
+
+easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.
+
 #### Chrome Extensions
 
 ##### [Aliaser](https://chrome.google.com/webstore/detail/aliaser/oflebjnamhkcfcmlgncneemhbijddaae)
