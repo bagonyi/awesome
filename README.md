@@ -152,6 +152,10 @@ DOMListener is a simple tool that provides convenient interface for observing DO
 
 EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
 
+##### [Google Analytics Opt-out Add-on (by Google)](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh)
+
+Tells the Google Analytics JavaScript not to send information to Google Analytics.
+
 ##### [Google Quick Scroll](https://chrome.google.com/webstore/detail/google-quick-scroll/okanipcmceoeemlbjnmnbdibhgpbllgc)
 
 Quick Scroll lets you jump directly to the relevant bits of a Google search result.
