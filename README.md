@@ -1,5 +1,5 @@
 # awesome
-List of awesome tools / books / articles that I find useful for (self) development.
+List of awesome tools / books / pages that I find useful for (self) development.
 
 ## Tools
 
@@ -115,9 +115,13 @@ The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and cont
 
 Know what event is bound on each dom element.
 
-## Articles
+## Pages
 
 #### [PHP Annotated Monthly by JetBrains](http://blog.jetbrains.com/phpstorm/category/php-annotated-monthly)
+
+#### [PHP Books](http://php-books.com)
+
+What all the fashionable ElePHPants are reading.
 
 #### [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)
 
