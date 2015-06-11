@@ -77,6 +77,10 @@ CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON sup
 
 PhpStorm's smart code editor provides excellent support for PHP (including the latest language versions and frameworks), HTML, JavaScript, CSS, Sass, Less, CoffeeScript, and many other languages. Enjoy coding with intelligent context-aware code completion, error detection, and on-the-fly code inspections & fixes.
 
+#### [Gnome SSH Tunnel Manager](http://sourceforge.net/projects/gstm)
+
+gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.
+
 #### Chrome Extensions
 
 ##### [Aliaser](https://chrome.google.com/webstore/detail/aliaser/oflebjnamhkcfcmlgncneemhbijddaae)
