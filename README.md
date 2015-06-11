@@ -144,6 +144,10 @@ CSS Reloader is a browser extension, that allows you to reload CSS without reloa
 
 Create keyboard shortcuts to DOM elements for a faster devtools workflow.
 
+##### [DOMListener](https://chrome.google.com/webstore/detail/domlistener/jlfdgnlpibogjanomigieemaembjeolj)
+
+DOMListener is a simple tool that provides convenient interface for observing DOM changes (node removal and addition, attribute and text modifications). Events can be filtered with ease, affected nodes can be highlighted with a single click.
+
 ##### [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
 EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
