@@ -87,6 +87,10 @@ Aliaser is a Chrome extension that provides multiple-parameter URL aliasing.
 
 Add cards to Anki directly from Chrome. Perfect for when you quickly want to add something without having to start the desktop version.
 
+##### [Appspector](https://chrome.google.com/webstore/detail/appspector/homgcnaoacgigpkkljjjekpignblkeae)
+
+Detect web applications and javascript libraries run on browsing website.
+
 ##### [Cache Killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap)
 
 Automatically clear your browser cache before loading a page. Can be enabled/disabled with a single mouse click.
