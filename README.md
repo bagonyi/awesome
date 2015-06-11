@@ -45,7 +45,7 @@ A Vim plugin which shows a git diff in the gutter (sign column) and stages/rever
 
 Create and configure lightweight, reproducible, and portable development environments.
 
-##### [Vagrant Manager for OSX](http://vagrantmanager.com)
+##### [Vagrant Manager for OS X](http://vagrantmanager.com)
 
 Manage your vagrant machines in one place with Vagrant Manager for OS X.
 
@@ -92,6 +92,10 @@ muCommander is a lightweight, cross-platform file manager with a dual-pane inter
 #### [easystroke](http://sourceforge.net/projects/easystroke)
 
 easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.
+
+#### [f.lux (for OS X)](https://justgetflux.com/) or [Redshift (for GNU/Linux)](http://jonls.dk/redshift/)
+
+Both application adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 
 #### Chrome Extensions
 
