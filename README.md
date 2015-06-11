@@ -140,6 +140,10 @@ Automatically clear your browser cache before loading a page. Can be enabled/dis
 
 CSS Reloader is a browser extension, that allows you to reload CSS without reloading the page itself.
 
+##### [DomFlags](https://chrome.google.com/webstore/detail/domflags/nindoglnpjcjoaheijieagogboabafkc)
+
+Create keyboard shortcuts to DOM elements for a faster devtools workflow.
+
 ##### [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
 EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
