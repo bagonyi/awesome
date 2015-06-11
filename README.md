@@ -81,6 +81,10 @@ Toggle between your current and last used (focused) tab with a keyboard shortcut
 
 The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.
 
+##### [Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim)
+
+Know what event is bound on each dom element.
+
 ## Articles
 
 #### [PHP Annotated Monthly by JetBrains](http://blog.jetbrains.com/phpstorm/category/php-annotated-monthly)
