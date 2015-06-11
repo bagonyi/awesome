@@ -62,6 +62,10 @@ A runtime developer console, interactive debugger and REPL for PHP.
 
 The log file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels. Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file. It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
 
+#### [autojump](https://github.com/joelthelion/autojump)
+
+autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line.
+
 #### [sshrc](https://github.com/Russell91/sshrc)
 
 Bring your .bashrc, .vimrc, etc. with you when you ssh. sshrc works just like ssh, but it also sources the ~/.sshrc on your local computer after logging in remotely.
