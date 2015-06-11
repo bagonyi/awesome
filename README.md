@@ -119,6 +119,8 @@ Know what event is bound on each dom element.
 
 #### [PHP Annotated Monthly by JetBrains](http://blog.jetbrains.com/phpstorm/category/php-annotated-monthly)
 
+Reader's Digest for PHP developers.
+
 #### [PHP Books](http://php-books.com)
 
 What all the fashionable ElePHPants are reading.
