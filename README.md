@@ -1,4 +1,5 @@
 # awesome
+
 List of awesome tools / books / pages that I find useful for (self) development.
 
 ## Tools
@@ -96,6 +97,10 @@ easystroke is a gesture-recognition application for X11. It aims to be highly co
 #### [f.lux (for OS X)](https://justgetflux.com/) or [Redshift (for GNU/Linux)](http://jonls.dk/redshift/)
 
 Both application adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+
+#### [ScreenCloud](https://screencloud.net)
+
+ScreenCloud makes screenshot sharing easy!
 
 #### Chrome Extensions
 
