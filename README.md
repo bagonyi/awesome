@@ -182,9 +182,13 @@ What all the fashionable ElePHPants are reading.
 
 This is a collection of known design patterns and some sample code how to implement them in PHP. Every pattern has a small list of examples (most of them from Zend Framework, Symfony2 or Doctrine2).
 
-#### [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+#### [Learn Git Branching](http://pcottle.github.io/learnGitBranching)
 
 Learn Git Branching is the most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
+
+#### [CheckiO](https://www.checkio.org)
+
+CheckiO is the game for coders. Improve your code with the help of our community. Create missions and challenge your peers.
 
 ## Books
 
