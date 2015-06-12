@@ -114,6 +114,10 @@ GNU Midnight Commander is a visual file manager. It's a feature rich full-screen
 
 muCommander is a lightweight, cross-platform file manager with a dual-pane interface. It runs on any operating system with Java support (Mac OS X, Windows, Linux, *BSD, Solaris...).
 
+#### [tldr](https://github.com/tldr-pages/tldr)
+
+Simplified and community-driven man pages.
+
 #### [easystroke](http://sourceforge.net/projects/easystroke)
 
 easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.
