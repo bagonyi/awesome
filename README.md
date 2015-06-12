@@ -202,6 +202,10 @@ What all the fashionable ElePHPants are reading.
 
 This is a collection of known design patterns and some sample code how to implement them in PHP. Every pattern has a small list of examples (most of them from Zend Framework, Symfony2 or Doctrine2).
 
+#### [Playbook by thoughtbot](https://playbook.thoughtbot.com)
+
+A guide to software development by a software consulting company called thoughtbot.
+
 #### [The Twelve-Factor App](http://12factor.net)
 
 A methodology for building modern, scalable, maintainable software-as-a-service apps.
