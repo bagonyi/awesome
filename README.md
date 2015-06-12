@@ -70,6 +70,10 @@ The log file navigator, lnav, is an enhanced log file viewer that takes advantag
 
 A code searching tool similar to ack, with a focus on speed.
 
+#### [fzf](https://github.com/junegunn/fzf)
+
+fzf is a general-purpose command-line fuzzy finder.
+
 #### [autojump](https://github.com/joelthelion/autojump)
 
 autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line.
