@@ -62,6 +62,10 @@ A runtime developer console, interactive debugger and REPL for PHP.
 
 The log file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels. Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file. It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
 
+#### [The Silver Searcher (ag)](https://github.com/ggreer/the_silver_searcher)
+
+A code searching tool similar to ack, with a focus on speed.
+
 #### [autojump](https://github.com/joelthelion/autojump)
 
 autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line.
