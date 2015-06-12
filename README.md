@@ -32,7 +32,7 @@ Lean & mean status/tabline for vim that's light as air.
 
 ##### [fugitive.vim](https://github.com/tpope/vim-fugitive)
 
-fugitive.vim: a Git wrapper so awesome, it should be illegal
+fugitive.vim: a Git wrapper so awesome, it should be illegal.
 
 ##### [ctrlp.vim](http://kien.github.io/ctrlp.vim)
 
@@ -41,6 +41,10 @@ Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 ##### [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 
 A Vim plugin which shows a git diff in the gutter (sign column) and stages/reverts hunks.
+
+#### [Docker](https://www.docker.com)
+
+Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
 
 #### [Vagrant](https://www.vagrantup.com)
 
