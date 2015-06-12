@@ -228,6 +228,8 @@ CheckiO is the game for coders. Improve your code with the help of our community
 
 #### [Mastering Regular Expressions (Jeffrey Friedl)](http://regex.info/book.html)
 
+#### [Specification By Example (Gojko Adzic)](http://specificationbyexample.com)
+
 ## Misc
 
 #### [Anki](http://ankisrs.net)
