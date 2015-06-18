@@ -146,6 +146,10 @@ ScreenCloud makes screenshot sharing easy!
 
 ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
 
+#### [Day-O (OS X)](http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock)
+
+Day-O is a simple menu bar clock replacement with a simple calendar for your Mac.
+
 #### Chrome Extensions
 
 ##### [Aliaser](https://chrome.google.com/webstore/detail/aliaser/oflebjnamhkcfcmlgncneemhbijddaae)
