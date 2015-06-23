@@ -206,6 +206,10 @@ Know what event is bound on each dom element.
 
 ## Pages
 
+#### [PHP: The Right Way](http://www.phptherightway.com)
+
+An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative PHP tutorials around the Web.
+
 #### [PHP Annotated Monthly by JetBrains](http://blog.jetbrains.com/phpstorm/category/php-annotated-monthly)
 
 Reader's Digest for PHP developers.
