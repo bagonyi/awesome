@@ -192,6 +192,10 @@ Tells the Google Analytics JavaScript not to send information to Google Analytic
 
 Quick Scroll lets you jump directly to the relevant bits of a Google search result.
 
+##### [jQuery Audit](https://chrome.google.com/webstore/detail/jquery-audit/dhhnpbajdcgdmbbcoakfhmfgmemlncjg)
+
+jQuery Audit creates a sidebar in the Elements panel containing jQuery delegated events, internal data, and more, as live DOM nodes, functions, and objects.
+
 ##### [Toggle Switch Recent Last Tabs](https://chrome.google.com/webstore/detail/toggle-switch-recent-last/odhjcgnlbagjllfbilicalpigimhdcll)
 
 Toggle between your current and last used (focused) tab with a keyboard shortcut (ALT+Q by default) or mouse click on the icon.
