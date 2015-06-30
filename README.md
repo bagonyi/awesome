@@ -254,6 +254,16 @@ CheckiO is the game for coders. Improve your code with the help of our community
 
 #### [Specification By Example (Gojko Adzic)](http://specificationbyexample.com)
 
+## Newsletters
+
+#### [Servers for Hackers](https://serversforhackers.com)
+
+A newsletter about servers, for programmers.
+
+#### [A Drip of JavaScript](http://adripofjavascript.com)
+
+One quick JavaScript tip, delivered to your inbox every other week.
+
 ## Misc
 
 #### [Anki](http://ankisrs.net)
