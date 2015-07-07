@@ -146,6 +146,12 @@ ScreenCloud makes screenshot sharing easy!
 
 ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
 
+#### [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
+
+The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
+
+(I found this as a free alternative to Charles for using it as a web proxy)
+
 #### [Day-O (OS X)](http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock)
 
 Day-O is a simple menu bar clock replacement with a simple calendar for your Mac.
