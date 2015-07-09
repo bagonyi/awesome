@@ -74,9 +74,9 @@ A code searching tool similar to ack, with a focus on speed.
 
 fzf is a general-purpose command-line fuzzy finder.
 
-#### [autojump](https://github.com/joelthelion/autojump)
+#### [fasd](https://github.com/clvv/fasd)
 
-autojump is a faster way to navigate your filesystem. It works by maintaining a database of the directories you use the most from the command line.
+Fasd (pronounced similar to "fast") is a command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
 
 #### [sshrc](https://github.com/Russell91/sshrc)
 
