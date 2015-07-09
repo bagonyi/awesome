@@ -130,6 +130,10 @@ muCommander is a lightweight, cross-platform file manager with a dual-pane inter
 
 Simplified and community-driven man pages.
 
+#### [The Pyed Piper](https://code.google.com/p/pyp)
+
+Pyp is a linux command line text manipulation tool similar to awk or sed, but which uses standard python string and list methods as well as custom functions evolved to generate fast results in an intense production environment.
+
 #### [easystroke](http://sourceforge.net/projects/easystroke)
 
 easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.
