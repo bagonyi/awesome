@@ -156,6 +156,10 @@ The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testin
 
 (I found this as a free alternative to Charles for using it as a web proxy)
 
+#### [mitmproxy](https://mitmproxy.org)
+
+An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+
 #### [Day-O (OS X)](http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock)
 
 Day-O is a simple menu bar clock replacement with a simple calendar for your Mac.
