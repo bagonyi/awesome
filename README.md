@@ -134,6 +134,10 @@ Simplified and community-driven man pages.
 
 Pyp is a linux command line text manipulation tool similar to awk or sed, but which uses standard python string and list methods as well as custom functions evolved to generate fast results in an intense production environment.
 
+#### [jq](http://stedolan.github.io/jq)
+
+jq is like sed for JSON data – you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
+
 #### [easystroke](http://sourceforge.net/projects/easystroke)
 
 easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.
