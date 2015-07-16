@@ -256,6 +256,10 @@ A methodology for building modern, scalable, maintainable software-as-a-service 
 
 Learn Git Branching is the most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
 
+#### [PHP7 tutorial](http://php7-tutorial.com)
+
+The purpose of this site is to help you discover all the changes and new features in PHP7. This tutorial takes the form of simple exercise where you will be asked to solve or fix a bug. Each step corresponds to a RFC and is accompanied by a short explanation.
+
 #### [CheckiO](https://www.checkio.org)
 
 CheckiO is the game for coders. Improve your code with the help of our community. Create missions and challenge your peers.
