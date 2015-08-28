@@ -138,6 +138,10 @@ Pyp is a linux command line text manipulation tool similar to awk or sed, but wh
 
 jq is like sed for JSON data – you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
 
+#### [PathPicker](https://github.com/facebook/pathpicker)
+
+PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+
 #### [easystroke](http://sourceforge.net/projects/easystroke)
 
 easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.
