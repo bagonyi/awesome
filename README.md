@@ -290,6 +290,10 @@ A newsletter about servers, for programmers.
 
 One quick JavaScript tip, delivered to your inbox every other week.
 
+#### [PHP Weekly](http://www.phpweekly.com)
+
+A free once-a-week newsletter, featuring some great articles, news and blog posts. All About PHP!
+
 ## Misc
 
 #### [Anki](http://ankisrs.net)
