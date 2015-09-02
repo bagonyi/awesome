@@ -18,6 +18,14 @@ tmux is a terminal multiplexer.
 
 What is a terminal multiplexer? It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
 
+##### [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+
+Installs and loads TMUX plugins.
+
+##### [tmux plugins](https://github.com/tmux-plugins)
+
+List of tmux plugins that can be easily installed with Tmux Plugin Manager.
+
 #### [vim](http://www.vim.org)
 
 Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
