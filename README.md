@@ -238,6 +238,12 @@ The Hacker's Browser. Vimium provides keyboard shortcuts for navigation and cont
 
 Know what event is bound on each dom element.
 
+## Libraries
+
+#### [NProgress.js](http://ricostacruz.com/nprogress)
+
+A nanoscopic progress bar. Featuring realistic trickle animations to convince your users that something is happening!
+
 ## Pages
 
 #### [PHP: The Right Way](http://www.phptherightway.com)
