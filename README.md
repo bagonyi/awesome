@@ -290,6 +290,10 @@ CheckiO is the game for coders. Improve your code with the help of our community
 
 Free Code Camp is an open-source community of busy people who learn to code and build projects for nonprofits.
 
+#### [JSON API](http://jsonapi.org)
+
+A specification for building apis in JSON.
+
 ## Books
 
 #### [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)](http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
