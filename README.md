@@ -282,6 +282,10 @@ The purpose of this site is to help you discover all the changes and new feature
 
 CheckiO is the game for coders. Improve your code with the help of our community. Create missions and challenge your peers.
 
+#### [freeCodeCamp](http://www.freecodecamp.com)
+
+Free Code Camp is an open-source community of busy people who learn to code and build projects for nonprofits.
+
 ## Books
 
 #### [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)](http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
