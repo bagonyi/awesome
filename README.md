@@ -180,7 +180,7 @@ An interactive console program that allows traffic flows to be intercepted, insp
 
 Day-O is a simple menu bar clock replacement with a simple calendar for your Mac.
 
-#### Chrome Extensions
+#### Chrome Apps / Extensions
 
 ##### [Aliaser](https://chrome.google.com/webstore/detail/aliaser/oflebjnamhkcfcmlgncneemhbijddaae)
 
@@ -197,6 +197,10 @@ Detect web applications and javascript libraries run on browsing website.
 ##### [Cache Killer](https://chrome.google.com/webstore/detail/cache-killer/jpfbieopdmepaolggioebjmedmclkbap)
 
 Automatically clear your browser cache before loading a page. Can be enabled/disabled with a single mouse click.
+
+##### [Chrome Connectivity Diagnostics](https://chrome.google.com/webstore/detail/chrome-connectivity-diagn/eemlkeanncmjljgehlbplemhmdmalhdc)
+
+Chrome Connectivity Diagnostics is a fast and simple network testing and troubleshooting tool for Chrome and Chrome OS. 
 
 ##### [CSS Reloader](https://chrome.google.com/webstore/detail/css-reloader/dnfpcpfijpdhabaoieccoclghgplmpbd)
 
