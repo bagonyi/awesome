@@ -230,6 +230,10 @@ Quick Scroll lets you jump directly to the relevant bits of a Google search resu
 
 jQuery Audit creates a sidebar in the Elements panel containing jQuery delegated events, internal data, and more, as live DOM nodes, functions, and objects.
 
+##### [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh)
+
+Faster CSS layout debugging.
+
 ##### [Toggle Switch Recent Last Tabs](https://chrome.google.com/webstore/detail/toggle-switch-recent-last/odhjcgnlbagjllfbilicalpigimhdcll)
 
 Toggle between your current and last used (focused) tab with a keyboard shortcut (ALT+Q by default) or mouse click on the icon.
