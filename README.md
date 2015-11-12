@@ -302,6 +302,10 @@ A specification for building apis in JSON.
 
 Execute your php code; get performance statistics and compare output from all versions.
 
+#### [SQL Style Guide](http://www.sqlstyle.guide)
+
+A consistent code style guide for SQL to ensure legible and maintainable projects.
+
 ## Books
 
 #### [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)](http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
