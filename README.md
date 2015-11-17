@@ -306,6 +306,10 @@ Execute your php code; get performance statistics and compare output from all ve
 
 A consistent code style guide for SQL to ensure legible and maintainable projects.
 
+#### [NodeSchool](http://nodeschool.io)
+
+Choose-your-own-adventure style lessons and learn how to use node.js, npm and other related tools by writing code to solve realistic problems.
+
 ## Books
 
 #### [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)](http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
