@@ -340,6 +340,10 @@ A free once-a-week newsletter, featuring some great articles, news and blog post
 
 A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 
+#### [Dev Tips](https://umaar.com/dev-tips)
+
+Sign up to receive a developer tip, in the form of a gif, in your inbox each week.
+
 ## Misc
 
 #### [Anki](http://ankisrs.net)
