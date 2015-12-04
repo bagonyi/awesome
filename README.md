@@ -336,6 +336,10 @@ One quick JavaScript tip, delivered to your inbox every other week.
 
 A free once-a-week newsletter, featuring some great articles, news and blog posts. All About PHP!
 
+#### [Hacker Newsletter](http://www.hackernewsletter.com)
+
+A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
+
 ## Misc
 
 #### [Anki](http://ankisrs.net)
