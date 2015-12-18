@@ -310,6 +310,10 @@ A consistent code style guide for SQL to ensure legible and maintainable project
 
 Choose-your-own-adventure style lessons and learn how to use node.js, npm and other related tools by writing code to solve realistic problems.
 
+#### [The Bash Academy](http://www.bash.academy)
+
+The Bash Academy is an initiative to promote and educate the bash shell language.
+
 ## Books
 
 #### [Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)](http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
