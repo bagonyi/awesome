@@ -326,6 +326,8 @@ The Bash Academy is an initiative to promote and educate the bash shell language
 
 #### [Specification By Example (Gojko Adzic)](http://specificationbyexample.com)
 
+#### [Professional Software Development (Mike G. Miller)](http://mixmastamyk.bitbucket.org/pro_soft_dev/index.html)
+
 ## Newsletters
 
 #### [Servers for Hackers](https://serversforhackers.com)
