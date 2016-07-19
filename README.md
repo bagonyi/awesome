@@ -176,6 +176,10 @@ The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testin
 
 An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
 
+#### [Java REPL](https://github.com/albertlatacz/java-repl)
+
+Java REPL is a simple Read-Eval-Print-Loop for Java language.
+
 #### [Day-O (OS X)](http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock)
 
 Day-O is a simple menu bar clock replacement with a simple calendar for your Mac.
