@@ -184,6 +184,10 @@ Java REPL is a simple Read-Eval-Print-Loop for Java language.
 
 Day-O is a simple menu bar clock replacement with a simple calendar for your Mac.
 
+#### [SikuliX](http://sikulix.com)
+
+Automate what you see on a computer monitor.
+
 #### Chrome Apps / Extensions
 
 ##### [Aliaser](https://chrome.google.com/webstore/detail/aliaser/oflebjnamhkcfcmlgncneemhbijddaae)
