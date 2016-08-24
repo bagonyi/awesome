@@ -188,6 +188,10 @@ Day-O is a simple menu bar clock replacement with a simple calendar for your Mac
 
 Automate what you see on a computer monitor.
 
+#### [gnomon](https://github.com/paypal/gnomon)
+
+Utility to annotate console logging statements with timestamps and find slow processes.
+
 #### Chrome Apps / Extensions
 
 ##### [Aliaser](https://chrome.google.com/webstore/detail/aliaser/oflebjnamhkcfcmlgncneemhbijddaae)
