@@ -192,6 +192,10 @@ Automate what you see on a computer monitor.
 
 Utility to annotate console logging statements with timestamps and find slow processes.
 
+#### [pv](http://www.ivarch.com/programs/pv.shtml)
+
+pv - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline. It can be inserted into any normal pipeline between two processes to give a visual indication of how quickly data is passing through, how long it has taken, how near to completion it is, and an estimate of how long it will be until completion.
+
 #### Chrome Apps / Extensions
 
 ##### [Aliaser](https://chrome.google.com/webstore/detail/aliaser/oflebjnamhkcfcmlgncneemhbijddaae)
