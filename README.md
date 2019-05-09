@@ -4,13 +4,15 @@ List of awesome tools / books / pages that I find useful for (self) development.
 
 ## Tools
 
+### Command line
+
 #### [zsh](http://www.zsh.org)
 
 The Z shell (zsh) is a Unix shell that can be used as an interactive login shell and as a powerful command interpreter for shell scripting. Zsh can be thought of as an extended Bourne shell with a large number of improvements, including some features of bash, ksh, and tcsh.
 
-##### [Antigen](https://github.com/zsh-users/antigen)
+##### [zplug](https://github.com/zplug/zplug)
 
-Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup. Antigen is to zsh, what Vundle is to vim.
+A next-generation plugin manager for zsh.
 
 #### [tmux](http://tmux.github.io)
 
@@ -25,6 +27,110 @@ Installs and loads TMUX plugins.
 ##### [tmux plugins](https://github.com/tmux-plugins)
 
 List of tmux plugins that can be easily installed with Tmux Plugin Manager.
+
+##### [pet](https://github.com/knqyf263/pet)
+
+Simple command-line snippet manager, written in Go.
+
+#### [PsySH](http://psysh.org)
+
+A runtime developer console, interactive debugger and REPL for PHP.
+
+#### [LNAV - The Logfile Navigator](https://github.com/tstack/lnav)
+
+The log file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels. Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file. It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
+
+#### [ripgrep](https://github.com/BurntSushi/ripgrep)
+
+ripgrep recursively searches directories for a regex pattern.
+
+#### [fzf](https://github.com/junegunn/fzf)
+
+fzf is a general-purpose command-line fuzzy finder.
+
+#### [fasd](https://github.com/clvv/fasd)
+
+Fasd (pronounced similar to "fast") is a command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
+
+#### [sshrc](https://github.com/Russell91/sshrc)
+
+Bring your .bashrc, .vimrc, etc. with you when you ssh. sshrc works just like ssh, but it also sources the ~/.sshrc on your local computer after logging in remotely.
+
+#### [Docker](https://www.docker.com)
+
+Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
+
+#### [Vagrant](https://www.vagrantup.com)
+
+Create and configure lightweight, reproducible, and portable development environments.
+
+##### [Vagrant Manager for OS X](http://vagrantmanager.com)
+
+Manage your vagrant machines in one place with Vagrant Manager for OS X.
+
+#### [Ansible](http://www.ansible.com)
+
+Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+
+#### [Unison](http://www.cis.upenn.edu/~bcpierce/unison) with [onchange.sh](https://gist.github.com/senko/1154509) for keeping local and a remote in sync (bidirectional!)
+
+Unison is a file-synchronization tool for OSX, Unix, and Windows. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other.
+
+Note: Unison needs to be installed both locally and on the remote machine (must be same version!).
+
+`onchange` is needed because Unison syncs only if it is asked to do so, it cannot watch directories for changes.
+
+`onchange` is GNU/Linux only, for a cross platform solution look at http://pythonhosted.org/watchdog/ or https://facebook.github.io/watchman/
+
+Usage (assuming `onchange` is on your `$PATH` and ideally using key authentication for SSH):
+```bash
+cd /path/to/code/locally
+onchange unison . ssh://root@virtualmachine//path/to/code/on/remote -batch -contactquietly
+```
+
+#### [httpie](https://github.com/jakubroztocil/httpie)
+
+CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+
+#### [git-ftp](https://github.com/git-ftp/git-ftp)
+
+Git powered FTP client written as shell script.
+
+#### [tldr](https://github.com/tldr-pages/tldr)
+
+Simplified and community-driven man pages.
+
+#### [The Pyed Piper](https://code.google.com/p/pyp)
+
+Pyp is a linux command line text manipulation tool similar to awk or sed, but which uses standard python string and list methods as well as custom functions evolved to generate fast results in an intense production environment.
+
+#### [jq](http://stedolan.github.io/jq)
+
+jq is like sed for JSON data – you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
+
+#### [PathPicker](https://github.com/facebook/pathpicker)
+
+PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+
+#### [ngrok](https://ngrok.com)
+
+ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
+
+#### [mitmproxy](https://mitmproxy.org)
+
+An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
+
+#### [Java REPL](https://github.com/albertlatacz/java-repl)
+
+Java REPL is a simple Read-Eval-Print-Loop for Java language.
+
+#### [gnomon](https://github.com/paypal/gnomon)
+
+Utility to annotate console logging statements with timestamps and find slow processes.
+
+#### [pv](http://www.ivarch.com/programs/pv.shtml)
+
+pv - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline. It can be inserted into any normal pipeline between two processes to give a visual indication of how quickly data is passing through, how long it has taken, how near to completion it is, and an estimate of how long it will be until completion.
 
 #### [vim](http://www.vim.org)
 
@@ -50,81 +156,39 @@ Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 
 A Vim plugin which shows a git diff in the gutter (sign column) and stages/reverts hunks.
 
-#### [Docker](https://www.docker.com)
+### Linux specific apps
 
-Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
+#### [Gnome SSH Tunnel Manager](http://sourceforge.net/projects/gstm)
 
-#### [Vagrant](https://www.vagrantup.com)
+gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.
 
-Create and configure lightweight, reproducible, and portable development environments.
+#### [easystroke](http://sourceforge.net/projects/easystroke)
 
-##### [Vagrant Manager for OS X](http://vagrantmanager.com)
+easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.
 
-Manage your vagrant machines in one place with Vagrant Manager for OS X.
+### macOS specific apps
 
-#### [Ansible](http://www.ansible.com)
+#### [f.lux (for OS X)](https://justgetflux.com/) or [Redshift (for GNU/Linux)](http://jonls.dk/redshift/)
 
-Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+Both application adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 
-#### [PsySH](http://psysh.org)
+#### [Day-O (OS X)](http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock)
 
-A runtime developer console, interactive debugger and REPL for PHP.
+Day-O is a simple menu bar clock replacement with a simple calendar for your Mac.
 
-#### [LNAV - The Logfile Navigator](https://github.com/tstack/lnav)
+### OS independent apps
 
-The log file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels. Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file. It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
+#### [Anki](http://ankisrs.net)
 
-#### [The Silver Searcher (ag)](https://github.com/ggreer/the_silver_searcher)
-
-A code searching tool similar to ack, with a focus on speed.
-
-#### [fzf](https://github.com/junegunn/fzf)
-
-fzf is a general-purpose command-line fuzzy finder.
-
-#### [fasd](https://github.com/clvv/fasd)
-
-Fasd (pronounced similar to "fast") is a command-line productivity booster. Fasd offers quick access to files and directories for POSIX shells. It is inspired by tools like autojump, z and v. Fasd keeps track of files and directories you have accessed, so that you can quickly reference them in the command line.
-
-#### [sshrc](https://github.com/Russell91/sshrc)
-
-Bring your .bashrc, .vimrc, etc. with you when you ssh. sshrc works just like ssh, but it also sources the ~/.sshrc on your local computer after logging in remotely.
-
-#### [Unison](http://www.cis.upenn.edu/~bcpierce/unison) with [onchange.sh](https://gist.github.com/senko/1154509) for keeping local and a remote in sync (bidirectional!)
-
-Unison is a file-synchronization tool for OSX, Unix, and Windows. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other.
-
-Note: Unison needs to be installed both locally and on the remote machine (must be same version!).
-
-`onchange` is needed because Unison syncs only if it is asked to do so, it cannot watch directories for changes.
-
-`onchange` is GNU/Linux only, for a cross platform solution look at http://pythonhosted.org/watchdog/ or https://facebook.github.io/watchman/
-
-Usage (assuming `onchange` is on your `$PATH` and ideally using key authentication for SSH):
-```bash
-cd /path/to/code/locally
-onchange unison . ssh://root@virtualmachine//path/to/code/on/remote -batch -contactquietly
-```
+Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
 
 #### [MailCatcher](http://mailcatcher.me)
 
 MailCatcher runs a super simple SMTP server which catches any message sent to it to display in a web interface. Run mailcatcher, set your favourite app to deliver to smtp://127.0.0.1:1025 instead of your default SMTP server, then check out http://127.0.0.1:1080 to see the mail that's arrived so far.
 
-#### [httpie](https://github.com/jakubroztocil/httpie)
-
-CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
-
-#### [git-ftp](https://github.com/git-ftp/git-ftp)
-
-Git powered FTP client written as shell script.
-
 #### [PhpStorm](https://www.jetbrains.com/phpstorm)
 
 PhpStorm's smart code editor provides excellent support for PHP (including the latest language versions and frameworks), HTML, JavaScript, CSS, Sass, Less, CoffeeScript, and many other languages. Enjoy coding with intelligent context-aware code completion, error detection, and on-the-fly code inspections & fixes.
-
-#### [Gnome SSH Tunnel Manager](http://sourceforge.net/projects/gstm)
-
-gSTM is a front-end for managing SSH-tunneled port redirects. It stores tunnel configurations in a simple XML format. The tunnels (local, remote and dynamic) can be managed and individually started/stopped through one simple interface.
 
 #### [Midnight Commander](https://www.midnight-commander.org)
 
@@ -134,37 +198,9 @@ GNU Midnight Commander is a visual file manager. It's a feature rich full-screen
 
 muCommander is a lightweight, cross-platform file manager with a dual-pane interface. It runs on any operating system with Java support (Mac OS X, Windows, Linux, *BSD, Solaris...).
 
-#### [tldr](https://github.com/tldr-pages/tldr)
-
-Simplified and community-driven man pages.
-
-#### [The Pyed Piper](https://code.google.com/p/pyp)
-
-Pyp is a linux command line text manipulation tool similar to awk or sed, but which uses standard python string and list methods as well as custom functions evolved to generate fast results in an intense production environment.
-
-#### [jq](http://stedolan.github.io/jq)
-
-jq is like sed for JSON data – you can use it to slice and filter and map and transform structured data with the same ease that sed, awk, grep and friends let you play with text.
-
-#### [PathPicker](https://github.com/facebook/pathpicker)
-
-PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
-
-#### [easystroke](http://sourceforge.net/projects/easystroke)
-
-easystroke is a gesture-recognition application for X11. It aims to be highly configurable while at the same time providing an intuitive user interface. It was designed primarily for use on a Tablet PC, but it also works well with a mouse.
-
-#### [f.lux (for OS X)](https://justgetflux.com/) or [Redshift (for GNU/Linux)](http://jonls.dk/redshift/)
-
-Both application adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-
 #### [ScreenCloud](https://screencloud.net)
 
 ScreenCloud makes screenshot sharing easy!
-
-#### [ngrok](https://ngrok.com)
-
-ngrok is a reverse proxy that creates a secure tunnel from a public endpoint to a locally running web service. ngrok captures and analyzes all traffic over the tunnel for later inspection and replay.
 
 #### [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
@@ -172,29 +208,9 @@ The OWASP Zed Attack Proxy (ZAP) is an easy to use integrated penetration testin
 
 (I found this as a free alternative to Charles for using it as a web proxy)
 
-#### [mitmproxy](https://mitmproxy.org)
-
-An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
-
-#### [Java REPL](https://github.com/albertlatacz/java-repl)
-
-Java REPL is a simple Read-Eval-Print-Loop for Java language.
-
-#### [Day-O (OS X)](http://shauninman.com/archive/2011/10/20/day_o_mac_menu_bar_clock)
-
-Day-O is a simple menu bar clock replacement with a simple calendar for your Mac.
-
 #### [SikuliX](http://sikulix.com)
 
 Automate what you see on a computer monitor.
-
-#### [gnomon](https://github.com/paypal/gnomon)
-
-Utility to annotate console logging statements with timestamps and find slow processes.
-
-#### [pv](http://www.ivarch.com/programs/pv.shtml)
-
-pv - Pipe Viewer - is a terminal-based tool for monitoring the progress of data through a pipeline. It can be inserted into any normal pipeline between two processes to give a visual indication of how quickly data is passing through, how long it has taken, how near to completion it is, and an estimate of how long it will be until completion.
 
 #### Chrome Apps / Extensions
 
@@ -366,12 +382,14 @@ A weekly newsletter of the best articles on startups, technology, programming, a
 
 Sign up to receive a developer tip, in the form of a gif, in your inbox each week.
 
-## Misc
+#### [JetBrains Newsletters](https://www.jetbrains.com/community/newsletters/)
 
-#### [Anki](http://ankisrs.net)
-
-Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn.
+## Music
 
 #### [HARD with STYLE](https://soundcloud.com/hardwithstyle)
 
 A home to lovers of the harder styles in dance music, and a platform for new talents to shine. Based on the ever so popular monthly Podcast, HARD with STYLE has become more than a record label – a movement in its own right.
+
+#### [Brain.fm](https://brain.fm)
+
+While other music is primarily made to sound good and evoke feelings, Brain.fm works with teams of scientists and composers to engineer music specifically designed to help you achieve and sustain deep focus.
