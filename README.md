@@ -384,6 +384,10 @@ Sign up to receive a developer tip, in the form of a gif, in your inbox each wee
 
 #### [JetBrains Newsletters](https://www.jetbrains.com/community/newsletters/)
 
+#### [Understand Legacy Code](https://understandlegacycode.com)
+
+Change messy software without breaking it.
+
 ## Music
 
 #### [HARD with STYLE](https://soundcloud.com/hardwithstyle)
